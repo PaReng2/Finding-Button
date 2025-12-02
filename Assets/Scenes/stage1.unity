@@ -455,10 +455,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d46f17eb4bd424c8ea39335c625c78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dirt: {fileID: 0}
-  Water: {fileID: 0}
-  Gress: {fileID: 0}
-  gold: {fileID: 0}
+  dirt: {fileID: 2382311249212672824, guid: 759e3c412db48fa4eb849b23f4fa03f3, type: 3}
+  Water: {fileID: 3760262177360982941, guid: 57f391e369d479b459c9a75c7d65f372, type: 3}
+  Gress: {fileID: 1049450107611596350, guid: 9676d5370bbdc424787c5ccde7b73551, type: 3}
+  gold: {fileID: 2773844836175174335, guid: 1e9117f951ad577469855bc30c84706a, type: 3}
   width: 20
   depth: 20
   maxHeight: 16
